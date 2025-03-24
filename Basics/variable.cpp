@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Pranay Anand";
+    int a = 5;
+    a*=10;
+    cout<<a;
 }
